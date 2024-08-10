@@ -23,7 +23,6 @@
     "zod": "^3.23.8",
     "apexcharts": "^3.45.2",
     "flatpickr": "^4.6.13",
-    "jsvectormap": "^1.6.0",
     "react-apexcharts": "^1.4.1"
   },
   "devDependencies": {
